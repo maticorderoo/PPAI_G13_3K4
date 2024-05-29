@@ -28,7 +28,8 @@ namespace PPAI_G13_3K4
             fechaHasta.Visible = true;
             lblFechaDesde.Visible = true;
             lblFechaHasta.Visible = true;
-            lblPeriodo.Visible = true; 
+            lblPeriodo.Visible = true;
+            btnGenerarRankingVinos.Visible = false;
         }
 
         public void tomarFechaDesdeRanking(DateTime fechaDesde)
@@ -45,6 +46,8 @@ namespace PPAI_G13_3K4
         {
             if (desde > hasta)
             {
+                lblTipoReseña.Visible = false;
+                cmbTipoReseña.Visible = false;
                 MessageBox.Show("La fecha 'Desde' no puede ser mayor que la fecha 'Hasta'.", "Error de Validación", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return false;
             }

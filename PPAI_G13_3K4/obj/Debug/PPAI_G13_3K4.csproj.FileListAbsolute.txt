@@ -18,3 +18,13 @@ C:\Users\Victus\Desktop\UTN\DSI\PPAI\PPAI_G13_3K4\PPAI_G13_3K4\obj\Debug\PPAI_G1
 C:\Users\Victus\Desktop\UTN\DSI\PPAI\PPAI_G13_3K4\PPAI_G13_3K4\obj\Debug\PPAI_G13_3K4.csproj.CoreCompileInputs.cache
 C:\Users\Victus\Desktop\UTN\DSI\PPAI\PPAI_G13_3K4\PPAI_G13_3K4\obj\Debug\PPAI_G13_3K4.exe
 C:\Users\Victus\Desktop\UTN\DSI\PPAI\PPAI_G13_3K4\PPAI_G13_3K4\obj\Debug\PPAI_G13_3K4.pdb
+C:\Users\matut\OneDrive\Documentos\PPAI_G13_3K4\PPAI_G13_3K4\bin\Debug\PPAI_G13_3K4.exe.config
+C:\Users\matut\OneDrive\Documentos\PPAI_G13_3K4\PPAI_G13_3K4\bin\Debug\PPAI_G13_3K4.exe
+C:\Users\matut\OneDrive\Documentos\PPAI_G13_3K4\PPAI_G13_3K4\bin\Debug\PPAI_G13_3K4.pdb
+C:\Users\matut\OneDrive\Documentos\PPAI_G13_3K4\PPAI_G13_3K4\obj\Debug\PPAI_G13_3K4.csproj.AssemblyReference.cache
+C:\Users\matut\OneDrive\Documentos\PPAI_G13_3K4\PPAI_G13_3K4\obj\Debug\PPAI_G13_3K4.PantallaGenerarRanking.resources
+C:\Users\matut\OneDrive\Documentos\PPAI_G13_3K4\PPAI_G13_3K4\obj\Debug\PPAI_G13_3K4.Properties.Resources.resources
+C:\Users\matut\OneDrive\Documentos\PPAI_G13_3K4\PPAI_G13_3K4\obj\Debug\PPAI_G13_3K4.csproj.GenerateResource.cache
+C:\Users\matut\OneDrive\Documentos\PPAI_G13_3K4\PPAI_G13_3K4\obj\Debug\PPAI_G13_3K4.csproj.CoreCompileInputs.cache
+C:\Users\matut\OneDrive\Documentos\PPAI_G13_3K4\PPAI_G13_3K4\obj\Debug\PPAI_G13_3K4.exe
+C:\Users\matut\OneDrive\Documentos\PPAI_G13_3K4\PPAI_G13_3K4\obj\Debug\PPAI_G13_3K4.pdb
